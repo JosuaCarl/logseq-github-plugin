@@ -13,3 +13,8 @@ Born out of frustration with github's issue handling, this plugin allows you to 
 - Click the gear icon in the logseq github plugin
 - Click open settings
 - Customize the options
+
+## Usage
+1. Enter `/Fetch Github Issues` into any position in Logseq
+2. The query will be carried out as defined in the SearchQuery field in Settings
+  - Example :`repo:sawhney17/logseq-github-plugin is:issue state:open`
